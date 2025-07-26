@@ -1,7 +1,7 @@
 # 🚗 Car Sales Dashboard 📊
 This project presents an interactive Excel dashboard analyzing car listings data across various dimensions such as fuel type, transmission, seller type, ownership status, and average selling prices over the years.
 
-![Dashboard Screenshot](581bfa46-8e7f-4afb-be35-466deef4af89.png)
+![Dashboard Screenshot](https://github.com/yash123-tech/car-sales-dashboard/blob/main/Screenshot%202025-07-26%20160514.png)
 
 ---
 
